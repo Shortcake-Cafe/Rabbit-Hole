@@ -45,7 +45,7 @@ This means you are on your own for now. However here's a few tips on where to ge
 ### 3. Modding the game
 1. Go to https://packager.turbowarp.org/.
 
-2. **Select File** and **load Rabbit Hole.sb3*
+2. **Select File** and **load Rabbit Hole.sb3**
 
 3. Scroll down, press **Import Settings** and upload **turbowarp-packager-settings.json**
 
