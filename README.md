@@ -19,8 +19,7 @@ Rabbit Hole is an **.sb3** file, which means it is a scratch game, here's the st
 1. Go to https://turbowarp.org/editor.
 *Rabbit Hole was made using a modded version of scratch, otherwise it would run at 30fps.*
 
-2. Go to **Addons > Import** settings and upload this file:
-*https://drive.google.com/file/d/1aIg-0VYeqXrOwlPrF2al1cweRYu3tx8M/view?usp=sharing*
+2. Go to **Addons > Import** settings and upload **turbowarp-addon-settings.json**
 
 3. Return to the editor and refresh the page.
 *This is to load all the addons we just added.*
@@ -49,8 +48,7 @@ This means you are on your own for now. However here's a few tips on where to ge
 2. **Select File** and **load Rabbit Hole.sb3*
 
 
-3. Scroll down, press **Import Settings** and upload this file:
-*https://drive.google.com/file/d/1lxNH5P1gZzej1v_f54lCgqab-39OAIpy/view?usp=sharing*
+3. Scroll down, press **Import Settings** and upload **turbowarp-packager-settings.json**
 
 4. Pick your **environment** and press **package**!
 *The browser version of Rabbit Hole just uses Plain HTML*
