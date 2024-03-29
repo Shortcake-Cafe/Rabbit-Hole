@@ -1,3 +1,5 @@
+![thumbnail](https://github.com/Shortcake-Cafe/Rabbit-Hole/assets/165345800/c2f58e0e-b41f-40c7-8574-f5723cca1115)
+
 # Rabbit Hole Source Code (V. 1.03)
 This is the Rabbit Hole source code!
 
