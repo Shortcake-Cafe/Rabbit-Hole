@@ -51,9 +51,9 @@ This means you are on your own for now. However here's a few tips on where to ge
 
 4. Pick your **environment** and press **package**!
 
-   - The browser version of Rabbit Hole just uses Plain HTML*
+   - The browser version of Rabbit Hole just uses Plain HTML
 
-   - The steam version uses Electron Windows application (64-bit only)*
+   - The steam version uses Electron Windows application (64-bit only)
 
 ## Author
 - All code was written by @ShortCake_Cafe
