@@ -3,13 +3,17 @@
 # Rabbit Hole Source Code (V. 1.03)
 This is the Rabbit Hole source code!
 
-## Links to the game
+### Links to the game
 - [Newgrounds](https://www.newgrounds.com/portal/view/920158)
 - [Itch.io](https://shortcake-cafe.itch.io/rabbit-hole)
 - [Steam](https://store.steampowered.com/app/2831340/Rabbit_Hole/)
 
-## Community
+### Community
 - [Join the fan Discord!](https://discord.gg/2Kwpd3Mtg6)
+
+### Support Development
+- [Donate to ShortCake_Cafe](https://ko-fi.com/shortcakecafe)
+- [Buy some merch](www.redbubble.com/en/people/shortcakestudio/shop?artistUserName=ShortCakeStudio&collections=3929788)
 ## Installing
 1. Compress /Rabbit Hole into a zip file.
 2. Rename zip file to Rabbit Hole.sb3
