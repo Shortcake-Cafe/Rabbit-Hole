@@ -1,5 +1,10 @@
 # Rabbit Hole Source Code (V. 1.03)
 This is the Rabbit Hole source code!
+
+- [Newgrounds](https://www.newgrounds.com/portal/view/920158)
+- [Itch.io](https://shortcake-cafe.itch.io/rabbit-hole)
+- [Steam](https://store.steampowered.com/app/2831340/Rabbit_Hole/)
+
 [Join the fan Discord!](https://discord.gg/2Kwpd3Mtg6)
 ## Installing
 1. Compress /Rabbit Hole into a zip file.
