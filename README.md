@@ -1,13 +1,19 @@
+![thumbnail](https://github.com/Shortcake-Cafe/Rabbit-Hole/assets/165345800/c2f58e0e-b41f-40c7-8574-f5723cca1115)
+
 # Rabbit Hole Source Code (V. 1.03)
 This is the Rabbit Hole source code!
 
-## Links to the game
+### Links to the game
 - [Newgrounds](https://www.newgrounds.com/portal/view/920158)
 - [Itch.io](https://shortcake-cafe.itch.io/rabbit-hole)
 - [Steam](https://store.steampowered.com/app/2831340/Rabbit_Hole/)
 
-## Community
+### Community
 - [Join the fan Discord!](https://discord.gg/2Kwpd3Mtg6)
+
+### Support Development
+- [Donate to ShortCake_Cafe](https://ko-fi.com/shortcakecafe)
+- [Buy some merch](www.redbubble.com/en/people/shortcakestudio/shop?artistUserName=ShortCakeStudio&collections=3929788)
 ## Installing
 1. Compress /Rabbit Hole into a zip file.
 2. Rename zip file to Rabbit Hole.sb3
@@ -40,18 +46,18 @@ This means you are on your own for now. However here's a few tips on where to ge
 - **/CharaSelect/Cards**
    - This is where the character selection art is stored.
 
-### 3. Modding the game
+### 3. Compiling the game
 1. Go to https://packager.turbowarp.org/.
 
-2. **Select File** and **load Rabbit Hole.sb3*
+2. **Select File** and **load Rabbit Hole.sb3**
 
 3. Scroll down, press **Import Settings** and upload **turbowarp-packager-settings.json**
 
 4. Pick your **environment** and press **package**!
 
-   - The browser version of Rabbit Hole just uses Plain HTML*
+   - The browser version of Rabbit Hole just uses Plain HTML
 
-   - The steam version uses Electron Windows application (64-bit only)*
+   - The steam version uses Electron Windows application (64-bit only)
 
 ## Author
 - All code was written by @ShortCake_Cafe
