@@ -3,8 +3,8 @@
 # Rabbit Hole Source Code (V. 1.05)
 This is the Rabbit Hole source code!
 
-### Links to the game
-- [Documentation](https://shortcake-cafe.github.io/Rabbit-Hole-Doc/ext/introduction)
+### Documentation
+- [Rabbit Hole Documentation](https://shortcake-cafe.github.io/Rabbit-Hole-Doc/ext/introduction)
 
 ### Links to the game
 - [Newgrounds](https://www.newgrounds.com/portal/view/920158)
