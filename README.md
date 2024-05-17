@@ -4,6 +4,9 @@
 This is the Rabbit Hole source code!
 
 ### Links to the game
+- [Documentation](https://shortcake-cafe.github.io/Rabbit-Hole-Doc/ext/introduction)
+
+### Links to the game
 - [Newgrounds](https://www.newgrounds.com/portal/view/920158)
 - [Itch.io](https://shortcake-cafe.itch.io/rabbit-hole)
 - [Steam](https://store.steampowered.com/app/2831340/Rabbit_Hole/)
